@@ -1,5 +1,7 @@
 # Contextual_bandits
 
+## Empirical and theoretical evidence on high-quality feedback lead to worse performance
+
 Empirical and theoretical evidence in the literature suggests that high-quality feedback can sometimes lead agents in contextual bandits to focus too narrowly on perceived optimal actions. This narrow focus arises from the strong signal provided by accurate feedback, which can make the agent overly confident in certain actions, potentially leading to a lack of exploration. Here's a detailed explanation, including a simulation to illustrate this effect and a plot showing how the distribution of actions evolves over iterations.
 
 ### Theoretical Evidence
